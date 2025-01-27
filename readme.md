@@ -1,4 +1,4 @@
-# Descarregador de Vídeos 3CAT
+# 🏴󠁥󠁳󠁣󠁴󠁡󠁿 Descarregador de Vídeos 3CAT
 
 Script per descarregar sèries completes de la plataforma 3CAT (TV3). Actualment configurat per descarregar Numberblocks, però es pot modificar per a qualsevol sèrie disponible a la plataforma.
 
@@ -41,7 +41,7 @@ Assegura't de tenir els permisos necessaris per descarregar el contingut.
 
 -------------------------------------------
 
-# Descargador de Videos 3CAT
+# 🇪🇸 Descargador de Videos 3CAT
 
 Script para descargar series completas de la plataforma 3CAT (TV3). Actualmente configurado para descargar Numberblocks, pero puede modificarse para cualquier serie disponible en la plataforma.
 
